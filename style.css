@@ -10,7 +10,7 @@ html, body, div, p, h1, h2, h3, h4, h5, h6, a, img {
 em {
 	font-family: "Times new roman";
 	/* font-style: italic; */
-	color:#777777;
+	color:black;
 	font-size:12.5px;
 	display: block;
 	padding-top:3px;
